@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: bisque;
+}
+
+.login-box{
+    background-color: rgb(189, 156, 106);
+    border: 5px solid rgb(179, 109, 23);
+    border-radius: 10px;
+    padding: 10px;
+    height: 100px;
+    width: 300px;
+}
+
+#submit{
+    margin-left: 100px;
+}
